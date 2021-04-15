@@ -25,7 +25,7 @@ localhost and its port is 3205. When the client connects successfully to the ser
 will enter its private phone_number (username) initially. Then it is defined in the
 server system.<br>
 
-● username must be similar to phone number like [08500232000] etc. <br>
+● username must be similar to phone number like [08500232000] <br>
 
 The commands are described in below can be used in the system:
 ● -gcreate group_name: Creates a new specified group. The groups have been protected with non-encrypted passwords. The system will ask to define a password.<br>
